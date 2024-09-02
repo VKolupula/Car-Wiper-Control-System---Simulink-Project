@@ -1,0 +1,2 @@
+# Car Wiper Control System - Simulink Project
+ This project simulates a Car Wiper Control System using MATLAB Simulink. The system controls the wiper operation based on the selected mode and rain detection. Two different implementation methods are used in this project: one using Multiport Switch blocks and the other using Case blocks. This approach demonstrates different ways to implement control logic in Simulink.
